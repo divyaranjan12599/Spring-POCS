@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sun Sep 25 00:20:35 IST 2022
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar

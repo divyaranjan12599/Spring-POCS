@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Mar 12 14:35:53 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\springframework\\spring-web\\4.3.9.RELEASE\\spring-web-4.3.9.RELEASE.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\divyaranjan.parida\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar
